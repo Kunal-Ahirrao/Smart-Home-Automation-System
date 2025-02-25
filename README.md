@@ -36,8 +36,8 @@ The system includes entities like **User, House, Room, Device, Automation Rule, 
 ## Conceptual and Logical Models  
 - **Conceptual Model**: Shows system entities and their relationships.  
 
-![](![Conceptual_diagram](https://github.com/user-attachments/assets/3589397f-54d9-4dd0-83ed-1e334e7f67ed)
-)
+![]![Conceptual_diagram](https://github.com/user-attachments/assets/2b7e3b08-ffca-4ecc-a612-b818ccf84b2c)
+
 
 - **Logical Model**: Defines **primary keys, foreign keys, and attributes** to structure the database properly.  
 
