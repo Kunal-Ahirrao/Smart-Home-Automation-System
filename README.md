@@ -1,7 +1,3 @@
----
-title: "Smart Home Automation System"
-output: github_document
----
 
 # Smart Home Automation System  
 
